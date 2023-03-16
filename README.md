@@ -1,2 +1,2 @@
 # personal
-https://Debiprasadbarik.github.io/personal/
+ https://debiprasadbarik.github.io/personal/
