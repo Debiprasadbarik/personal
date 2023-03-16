@@ -1,0 +1,22 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: red;
+    border-width:5px;
+    width: 5%;
+}
+h1{
+    color: #66bfbf;
+}
+.p2 {
+    color:red;
+}
+.p3{
+    color: greenyellow;
+}
+.p4{
+    color: aqua;
+}
