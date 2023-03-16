@@ -1,2 +1,2 @@
 # personal
- http://www.debiprasadbarik.personal.com/
+https://debi-dexterity.github.io/personal/
