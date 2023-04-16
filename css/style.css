@@ -59,7 +59,7 @@ body{
 }
 .home{
     height: 100vh;
-    background: url('/img/img.jpeg') no-repeat;
+    background: url('https://debiprasadbarik.github.io/personal/img/img.jpeg') no-repeat;
     display: flex;
     background-size: cover;
     background-position:center;
