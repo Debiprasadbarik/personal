@@ -90,7 +90,7 @@ section{
 }
 .home{
     height: 100vh;
-    background: url("../img/img.jpeg") no-repeat;
+    background: url('./img/img.jpeg') no-repeat;
     display: flex;
     background-size: cover;
     background-position:center;
