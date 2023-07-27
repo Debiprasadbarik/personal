@@ -591,6 +591,16 @@ span{
 .footer-text p{
     font-size: 1.6rem;
 }
+#fixedbutton {
+    position: fixed;
+    bottom: 0px;
+    right: 0px; 
+    font-size: 5.5rem;
+    padding-right: 20px;
+    color:#00abf0;
+}
+
+
 
 /*break*/
 @media (max-width:1200px){
